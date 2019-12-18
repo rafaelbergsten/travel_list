@@ -12,5 +12,5 @@
 */
 
 Route::get('/', function () {
-    return '<h1>Primeira lógica com Laravael</h1>';
+    return '<h1>Minha segunda lógica em Laravel</h1>';
 });
