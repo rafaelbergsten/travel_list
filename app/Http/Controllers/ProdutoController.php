@@ -1,4 +1,4 @@
-<?php namespace travel_list\Http\Controllers;
+<?php namespace app\Http\Controllers;
 
 class ProdutoController extends Controller{
     public function lista(){
