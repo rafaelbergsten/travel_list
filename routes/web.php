@@ -11,6 +11,8 @@
 |
 */
 
+Route::get('/produtos', 'ProdutoController@lista');
+
 Route::get('/', function () {
     return '<h1>Minha segunda lógica em Laravel</h1>';
 });
